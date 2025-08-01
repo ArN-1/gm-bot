@@ -1,0 +1,11 @@
+FARCASTER_BOT_MNEMONIC,SIGNER_UUID,NEYNAR_API_KEY,PUBLISH_CAST_TIME,TIME_ZONE
+mnemonic-1,uuid-1,key-1,09:00,UTC
+mnemonic-2,uuid-2,key-2,10:00,Asia/Jakarta
+mnemonic-3,uuid-3,key-3,08:30,UTC
+mnemonic-4,uuid-4,key-4,07:45,Asia/Bangkok
+mnemonic-5,uuid-5,key-5,11:15,Europe/London
+mnemonic-6,uuid-6,key-6,09:10,Asia/Tokyo
+mnemonic-7,uuid-7,key-7,10:30,America/New_York
+mnemonic-8,uuid-8,key-8,08:00,UTC
+mnemonic-9,uuid-9,key-9,06:45,Asia/Jakarta
+mnemonic-10,uuid-10,key-10,12:00,Asia/Dubai
