@@ -59,16 +59,16 @@ npx tsx src/app.ts
 
 ## CSV Configuration Format
 
-```
+```js
 FARCASTER_BOT_MNEMONIC,SIGNER_UUID,NEYNAR_API_KEY,PUBLISH_CAST_TIME,TIME_ZONE
 mnemonic-1,uuid-1,key-1,09:00,UTC
 mnemonic-2,uuid-2,key-2,10:00,Asia/Jakarta
-...
+```
 
 # How It Works
----
 
-On startup, the bot:
+
+### On startup, the bot:
 
 - Reads the CSV file
 
